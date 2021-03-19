@@ -12,6 +12,8 @@ Planning repo for ProtoOS.
 
 !["wanan design protoos?" - thetayloredman](https://vulpro.is-inside.me/YnEr3qPa.png)
 
+![It all started with a joke... - Ilovemyhous](https://vulpro.is-inside.me/x0gFmHnm.png)
+
 ### Naming of v1 ("Fluffy Fennec")
 
 ![Ubuntu 20.04: Focal Fossa](https://vulpro.is-inside.me/fT7iZzOI.png)
