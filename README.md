@@ -15,10 +15,10 @@ Code names are in the form Adjective Noun, and both words must start with the sa
 
 ### Current Release Table
 
-| Version | Codename                      | Status         | Release | EOL |
-| ------- | ----------------------------- | -------------- | ------- | --- |
-|         | Vicious Vulpine (KTB)         | In Development |         |     |
-|         | Fluffy Fennec (shiryel, Roxo) | Planned        |         |     |
+| Version | Codename                                                    | Status         | Release | EOL |
+| ------- | ----------------------------------------------------------- | -------------- | ------- | --- |
+|         | Vicious Vulpine (KTB)                                       | In Development |         |     |
+|         | Fluffy Fennec ([shiryel](https://github.com/shiryel), Roxo) | Planned        |         |     |
 
 ## Current Lead Developers
 
